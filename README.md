@@ -1,10 +1,17 @@
-### Hi there 👋
+## Sounak
+Hi, I am Sounak. 
+I am an software engineer with a passion for solving complex problems and creating innovative solutions. I am always looking for ways to improve my skills and learn new technologies.
+
+## Skills
+- **Proficient**: Java, Python, Javascript
+- **Intermediate**: C++, C, Golang
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SounakMandal&theme=transparent&show_icons=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SounakMandal&theme=transparent&langs_count=3&size_weight=0&count_weight=1)
 
 <!--
-**SounakMandal/SounakMandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SounakMandal)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
