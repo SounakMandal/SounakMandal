@@ -7,8 +7,8 @@ I am an software engineer with a passion for solving complex problems and creati
 - **Intermediate**: C++, C, Golang
 
 ## Stats
-![Sounak's GitHub stats](https://github-readme-stats-git-master-sounaks-projects.vercel.app/api?username=SounakMandal&theme=transparent&show_icons=true&hide_rank=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Top Langs](https://github-readme-stats-git-master-sounaks-projects.vercel.app/api/top-langs/?username=SounakMandal&theme=transparent&langs_count=3&size_weight=0&count_weight=1)
+![Sounak's GitHub stats](https://github-readme-stats-theta-kohl.vercel.app/api?username=SounakMandal&theme=transparent&show_icons=true&hide_rank=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats-theta-kohl.vercel.app/api/top-langs/?username=SounakMandal&theme=transparent&langs_count=3&size_weight=0&count_weight=1)
 
 <!--
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SounakMandal)
