@@ -3,8 +3,11 @@ Hi, I am Sounak.
 I am an software engineer with a passion for solving complex problems and creating innovative solutions. I am always looking for ways to improve my skills and learn new technologies.
 
 ## Skills
-- **Proficient**: Java, Python, Javascript
-- **Intermediate**: C++, C, Golang
+- **Proficient Languages**: [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,nodejs)](https://skillicons.dev)
+- **Intermediate Languages**: [![My Skills](https://skillicons.dev/icons?i=cpp,c,golang)](https://skillicons.dev)
+- **Frameworks**: [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,react,nextjs,redux)](https://skillicons.dev)
+- **Databases**: [![My Skills](https://skillicons.dev/icons?i=postgres,redis,cassandra,mongodb,mysql)](https://skillicons.dev)
+- **Cloud Technologies**: [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
 ## Stats
 ![Sounak's GitHub stats](https://github-readme-stats-theta-kohl.vercel.app/api?username=SounakMandal&theme=transparent&show_icons=true&hide_rank=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
